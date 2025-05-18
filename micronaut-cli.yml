@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.olegvbelov.budget
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-mongodb-reactive, http-client, java, java-application, junit, kubernetes-reactor-client, logback, lombok, management, maven, maven-enforcer-plugin, micronaut-aot, micronaut-http-validation, netty-server, openapi, properties, readme, serialization-jackson, shade, static-resources, swagger-ui, test-resources]
