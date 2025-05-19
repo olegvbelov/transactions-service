@@ -5,7 +5,7 @@ import io.micronaut.http.annotation.*;
 @Controller("/transactions-service")
 public class TransactionsServiceController {
 
-    @Get(uri="/", produces="text/plain")
+    @Get(uri = "/", produces = "text/plain")
     public String index() {
         return "Example Response";
     }
